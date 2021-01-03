@@ -1,5 +1,7 @@
 .cblock{
     
-    color: black;
-    font-style: bold;
+    color: white;
+    font-style: normal;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
